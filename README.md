@@ -1,3 +1,3 @@
-Device-specific MIDI system exclusive data models for [SYX](https://github.com/matthias-wolff/SYX)
+# Device-Specific MIDI SyxEx Data Models for [SYX](https://github.com/matthias-wolff/SYX)
 
-Note: This is a package for [SYX](https://github.com/matthias-wolff/SYX). You need to clone SYX and to include SYX into the Java classpath.
+Note: This is an extension to [SYX](https://github.com/matthias-wolff/SYX). You need to clone SYX and to include it into the Java classpath.
