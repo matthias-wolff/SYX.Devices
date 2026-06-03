@@ -1,6 +1,6 @@
 # Device-Specific MIDI SyxEx Data Models for [SYX](https://github.com/matthias-wolff/SYX)
 
-This is an extension to [SYX](https://github.com/matthias-wolff/SYX). You need to clone SYX and to include it into the Java classpath.
+This is an extension to [SYX](https://github.com/matthias-wolff/SYX). In order to use this package, you need to clone SYX and to include it into your Java classpath.
 
 Device models are under development:
 * [Casio VZ-1/10M](https://www.vintagesynth.com/casio/vz-1)
