@@ -14,8 +14,7 @@ import de.btu.kt.syx.util.SysexRecorder;
 /**
  * Test app for {@link VZ1Patch} model. 
  * 
- * @author Matthias Wolff,
- *         <a href="https://www.b-tu.de/en/">BTU Cottbus-Senftenberg</a>
+ * @author Matthias Wolff
  */
 public class VZ1PatchAppc extends AVZ1Appc
 {
