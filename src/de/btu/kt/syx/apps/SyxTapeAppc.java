@@ -1,5 +1,7 @@
 package de.btu.kt.syx.apps;
 
+import de.btu.kt.syx.util.AAppc;
+
 /**
  * SysEx tape console app.
  * 

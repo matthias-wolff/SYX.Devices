@@ -20,8 +20,8 @@ public class VZ1PatchAppc extends AVZ1Appc
 {
   // -- Constants (Development) -----------------------------------------------
 
-  private static final int APP_VERBOSE = 1;  // Console app verbose level
-  private static final int MI_VERBOSE  = 1;  // MIDI interface verbose level
+  private static final int APP_VERBOSE = 2;  // Console app verbose level
+  private static final int MI_VERBOSE  = 2;  // MIDI interface verbose level
   private static final int VZ1_VERBOSE = 2;  // VZ adapter verbose level
 
   private static final String VZ1_TD_BULKFN = "../tmp/VZ1_ToneData.txt";
